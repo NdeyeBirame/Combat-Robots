@@ -1,6 +1,7 @@
 package tp1;
 
-//Manon Delforge et Ndeye Birame Dia
+//Ndeye Birame DIA
+
 public class test {
 	public static void main(String[] args) {
 		//les instances
