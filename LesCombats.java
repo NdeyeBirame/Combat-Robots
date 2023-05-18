@@ -1,7 +1,8 @@
 package tp1;
 import java.util.Random;
 
-//Manon Delforge et Ndeye Birame Dia
+//Ndeye Birame DIA
+
 
 public class LesCombats {
 	//Puisque la condition d'arrêt des combats n'est pas précisée dans le Tp, on prendra comme 
