@@ -1,6 +1,6 @@
 package tp1;
 
-//Manon Delforge et Ndeye Birame Dia
+//Ndeye Birame DIA
 public class Robot {
 	protected String nom;
 	protected float x,y;     // les positions du robot
