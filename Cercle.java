@@ -1,6 +1,7 @@
 package tp1;
 
-//Manon Delforge et Ndeye Birame Dia
+//Ndeye  Birame  DIA
+
 public class Cercle {
 	protected Point centre;
 	protected double circonference,surface;
