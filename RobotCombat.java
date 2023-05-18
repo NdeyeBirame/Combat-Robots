@@ -1,6 +1,6 @@
 package tp1;
 
-//Manon Delforge et Ndeye Birame Dia 
+//Ndeye Birame DIA
 
 public class RobotCombat extends Robot{
 	protected int ptsVie,ptsAttaque;
