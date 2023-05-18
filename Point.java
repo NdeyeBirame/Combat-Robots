@@ -1,5 +1,6 @@
 package tp1;
-//Manon Delforge et Ndeye Birame Dia
+//Ndeye Birame DIA
+
 
 public class Point {
 	protected float x,y;
@@ -7,7 +8,7 @@ public class Point {
 		this.x=x;
 		this.y=y;	
 	}
-	public Point() {
+	public Point() 
 		x=0;
 		y=0;	
 	}
